@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Mejan - a Web Devloper.
 
-<!--
-**MejanH/MejanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
+- 🔭 My personal website: [**ALHAQI**](http://alhaqi.com/)
+- 🌱 I’m currently learning data structure and algorithms.
+- 👯 I’m looking to collaborate on some projects built with my favourite programming langugaes.
+- 🤔 I’m looking for help find a full stack web development **job**.
+- 💬 My programming skills are intermediate.
+- 📫 How to reach me: mail me from [Alhaqi](https://alhaqi.com/)
+- ⚡ Skills: JS/TS, React, Nodejs, Express, Nextjs, Asp.Net Core, HTML, CSS, Tailwind, Bootstrap, etc.
+- 😄 Fun fact: I am a self-taught web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mejan's github stats](https://github-readme-stats.vercel.app/api?username=MejanH&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
+
