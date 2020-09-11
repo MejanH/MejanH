@@ -11,5 +11,5 @@
 - ⚡ Skills: JS/TS, React, Nodejs, Express, Nextjs, Asp.Net Core, HTML, CSS, Tailwind, Bootstrap, etc.
 - 😄 Fun fact: I am a self-taught web developer.
 
-[![Mejan's github stats](https://github-readme-stats.vercel.app/api?username=MejanH&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
+![MejanH's github stats](https://github-readme-stats.vercel.app/api?username=MejanH&show_icons=true)
 
