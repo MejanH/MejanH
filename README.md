@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on some projects built with my favourite programming langugaes.
 - 🤔 I’m looking for help find a full stack web development **job**.
 - 💬 My programming skills are intermediate.
-- 📫 How to reach me: mail me from [Alhaqi](https://alhaqi.com/contact
+- 📫 How to reach me: mail me from [Alhaqi](https://alhaqi.com/contact)
 - ⚡ Skills: JS/TS, React, Nodejs, Express, Nextjs, Asp.Net Core, HTML, CSS, Gimp, Inkscape, Tailwind, Bootstrap, etc.
 - 😄 Fun fact: I am a self-taught web developer.
 
