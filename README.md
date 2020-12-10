@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help to find a full stack web development **job**.
 - 💬 My programming skills are intermediate.
 - 📫 How to reach me: mail me from [Alhaqi](https://alhaqi.com/contact)
-- ⚡ Skills: JS/TS, React, Nodejs, Express, Nextjs, TypeORM, HTML, CSS, Gimp, Inkscape, Tailwind, Bootstrap, etc.
+- ⚡ Skills: JS/TS, React, Nodejs, Express, Nextjs, TypeORM, GraphQL, HTML, CSS, Gimp, Inkscape, Tailwind, Bootstrap, etc.
 - 😄 Fun fact: I am a self-taught web developer.
 
 ![MejanH's github stats](https://github-readme-stats.vercel.app/api?username=MejanH&show_icons=true)
