@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help to find a full stack web development **job**.
 - 💬 My programming skills are intermediate.
 - 📫 How to reach me: mail me from [Alhaqi](https://alhaqi.com/contact)
-- ⚡ Skills: JS/TS, React, Nodejs, Django, Python, Express, Nextjs, TypeORM/Sequelize/Prisma, GraphQL, HTML, CSS, Gimp, Inkscape, Tailwind, Material-UI, Ant Design, Bootstrap, etc.
+- ⚡ Skills: JS/TS, React, Nodejs, Django, Python, Express, Nextjs, TypeORM/Sequelize/Prisma, GraphQL, HTML, CSS, Gimp, Inkscape, Figma, Tailwind, Material-UI, Ant Design, Bootstrap, etc.
 - Agile Development: Jira, Bitbucket, Github, CI/CD, Slack, Trello, etc.
 - 😄 Fun fact: I am a self-taught web developer.
 
